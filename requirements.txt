@@ -1,0 +1,6 @@
+HTMLParser==0.0.2
+Pillow==10.4.0
+PyQRCode==1.2.1
+qrcode==7.4.2
+Requests==2.32.3
+sqlmodel==0.0.22
